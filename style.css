@@ -1,0 +1,53 @@
+body{
+  font-family: 'Rubik', serif;
+  background-color: white;
+}
+.title{
+  font-size:300%;
+  color:#0C090A;
+  background-color:#3A5894;
+}
+.maths{
+  padding-top:5vw;
+  padding-left:2vw;
+  padding-right:10vw;
+  
+}
+.sciences{
+position: absolute;top:100%;
+padding-top:5vh;
+padding-right:10vw;
+
+
+}
+.other{
+position:absolute;top:100%;
+padding-top:5vh;
+padding-right:10vw;
+
+}
+.btn{
+  padding-top:5vw;
+  padding-bottom:5vw;
+  text-align:center;
+}
+.btn-purple{
+  background-color:#DA70D6;
+}
+.btn-beige{
+  background-color:#f5f5dc;
+}
+h3{
+text-decoration:underline solid#3A5894;
+padding-left:2vw;
+}
+.silly-border{
+  flex-direction:column;
+  width:0.1vw;
+  background-color:#3A5894;
+  margin-left:5vw;
+  
+}
+.text-area{
+padding-left:5vw;
+}
